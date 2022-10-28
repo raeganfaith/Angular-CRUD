@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "Raegan",
+      "lastName": "Paguirigan",
+      "email": "raeganfaith@gmail.com",
+      "mobile": "09876543212",
+      "salary": "$40000"
+    },
+    {
+      "id": 2,
+      "firstName": "Faith",
+      "lastName": "Flores",
+      "email": "faithflores@gmail.com",
+      "mobile": "09876543221",
+      "salary": "$90000"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
