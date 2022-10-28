@@ -15,6 +15,14 @@
       "email": "faithflores@gmail.com",
       "mobile": "09876543221",
       "salary": "$90000"
+    },
+    {
+      "id": 3,
+      "firstName": "Vinnie",
+      "lastName": "Calalang",
+      "email": "vinniecalalang@gmail.com",
+      "mobile": "09998898765",
+      "salary": "$20000"
     }
   ],
   "comments": [],
