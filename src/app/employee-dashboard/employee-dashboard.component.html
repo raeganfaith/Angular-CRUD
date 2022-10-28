@@ -1,6 +1,6 @@
-<nav class="navbar navbar-light bg-primary">
+<nav class="navbar">
   <div class="container-fluid">
-    <h1 style="color: aliceblue;">Angular CRUD</h1>
+    <h1 style="color: rgb(254, 255, 255);">Employee Record</h1>
     <div class="d-flex">
       <button type="button" data-bs-toggle="modal" data-bs-target="#exampleModal" class="btn btn-success">Add Employee</button>
     </div>
@@ -28,7 +28,7 @@
       <td>{{row.mobile}}</td>
       <td>{{row.salary}}</td>
       <td>
-        <button (click)="onEdit(row)"  style="color: aliceblue;" data-bs-toggle="modal" data-bs-target="#exampleModal" class="btn btn-info">Edit</button>
+        <button (click)="onEdit(row)" data-bs-toggle="modal" data-bs-target="#exampleModal" class="btn btn-info">Edit</button>
         <button (click)="deleteEmployee(row)" class="btn btn-danger mx-3">Delete</button>
       </td>
     </tr>
